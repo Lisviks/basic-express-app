@@ -2,6 +2,8 @@
 
 Basic API for a todo app using express, mongodb, mongoose
 
+Used with [React todo app](https://github.com/Lisviks/react-context-hooks-todo-app)
+
 ## Start
 
 ### Install all packages
